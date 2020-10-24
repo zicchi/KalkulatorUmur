@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">praktikum1</string>
+    <string name="tahun_lahir">Tahun Lahir</string>
+    <string name="button">Button</string>
+</resources>
